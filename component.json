@@ -1,0 +1,12 @@
+{
+  "name": "pocketest",
+  "version": "0.1.0",
+  "description": "jQuery plugin for testing of any web application by simulating user(s) interaction",
+  "author": "Peter Baus",
+  "license": "MIT",
+  "dependencies": {},
+  "main": "src/pocketest.js",
+  "scripts": [
+    "src/pocketest.js"
+  ]
+}
